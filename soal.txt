@@ -1,0 +1,42 @@
+1. Sebutkan jenis-jenis tipe data pada bahasa pemrograman PHP, kemudian buatkan contohnya ke dalam variabel (satu tipe data, satu variable)!
+===============================================================================
+2. Seorang raja minyak bernama Mohammed Bin Zayed memiliki hobi koleksi mobil Ferrari. Beberapa model Ferrari yang dimilkinya yaitu Ferrari 812 GTS, Ferrari SF90 Stradale, Ferrari F8 Spider, Ferrari 458 Speciale, dan Ferrari 599XX Evolution.
+Buatkan code program php sehingga menghasikan output berikut:
+5 Mobil Ferarri milik Mohammed Bin Zayed, yaitu:
+Ferrari 812 GTS
+Ferrari SF90 Stradale
+Ferrari F8 Spider
+Ferrari 458 Speciale
+Ferrari 599XX Evolution
+===============================================================================
+3. Seorang analisis penjualan motor melakukan survey terhadap merk motor yang paling laris di Indonesia. Dari hasil surveynya didapat kesimpulan bahwa lima merk yang terlaris berturut-turut adalah: Yahama, Honda, Suzuki, Kawasaki, dan TVS.
+Buatkan code program php sehingga menghasikan output berikut:
+Daftar Nama Merk Motor Paling Laris di Indonesia:
+Yahama
+Honda
+Suzuki
+Kawasaki
+TVS
+===============================================================================
+4. Fata dan Biru memiliki kelereng masing-masing 15 dan 10 butir.
+Buatkan code program php sehingga menghasikan output berikut:
+Kelereng Fata: 15 butir.
+Kelereng Biru: 10 butir.
+Jumlah kelereng keduanya adalah 25 butir.
+===============================================================================
+5. Fulan-A dan Fulan-B mengumpulkan infaq untuk saudara-saudara di Palestina yang sedang dizholimi oleh lakatullah Yahudi Zionis Isrel. Masing-masing infaq mereka adalah Rp. 500000,- dan Rp. 750000,-.
+Buatkan code program php sehingga menghasikan output berikut:
+Infaq Fulan-A: Rp. 500000,-
+Infaq Fulan-B: Rp. 750000,-
+Jumlah infaq keduanya adalah sebesar Rp. 1250000,-
+===============================================================================
+6. 
+===============================================================================
+7.
+===============================================================================
+8.
+===============================================================================
+9.
+===============================================================================
+10.
+===============================================================================
