@@ -1,0 +1,1 @@
+Sebutkan jenis-jenis tipe data pada bahasa pemrograman PHP, kemudian buatkan contohnya ke dalam variabel (satu tipe data, satu variable)!

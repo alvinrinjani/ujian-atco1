@@ -1,0 +1,1 @@
+Seorang pedangan menjual salah satu barang dagangannya dengan harga Rp. 500.000,-. Jika ia menjual dengan harga Rp. 375.000,-, berapa persen pedagang tersebut memberikan diskon pada barang dagangannya? Buatkan sebuah function dengan php yang dapat memberikan output yang sesuai!

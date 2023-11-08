@@ -1,0 +1,1 @@
+Seorang anak baru saja dan diberi nama "Muhammad al-Mahdi". Nama bapaknya adalah "Abdurrozzaq al-Buquri" dan ibunya bernama "Aminah Khoiruz Zahra". Berapa jumlah total huruf pada nama anak, ibu, dan bapak tersebut? Buatkan sebuah function dengan php yang dapat memberikan output yang sesuai!

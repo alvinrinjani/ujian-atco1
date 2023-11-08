@@ -14,15 +14,13 @@
   </head>
   <body>
     <div class="container mt-100">
+      <h3><?= $data['user']['username']; ?></h3>
         <div class="card">
             <div class="card-header text-center">Soal</div>
             <div class="card-body">
-                <!-- {{SOAL}} -->
-                <!-- <pre> -->
-                  <!-- <code> -->
-                    <?php highlight_file('public/questions/test.php'); ?>
-                  <!-- </code> -->
-                <!-- </pre> -->
+              <p class="px-5">
+                <?php highlight_file('public/questions/' . $data['user']['question']); ?>
+              </p>
             </div>
             <div class="card-footer text-center">
                 Jawaban

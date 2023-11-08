@@ -16,7 +16,7 @@
       <div class="card mx-auto mt-200" style="width: 36rem;">
         <div class="card-body">
           <h5 class="card-title text-center"><span class="text-marun">Silahkan Login</span><br>Untuk Melihat dan Menjawab Soal Ujian</h5>
-          <form action="" method="post">
+          <form action="login/auth" method="post">
             <div class="input-group mb-3">
               <input type="text" class="form-control" placeholder="Username" aria-label="Username" name="username">
             </div>
