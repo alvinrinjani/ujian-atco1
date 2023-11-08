@@ -17,7 +17,12 @@
         <div class="card">
             <div class="card-header text-center">Soal</div>
             <div class="card-body">
-                {{SOAL}}
+                <!-- {{SOAL}} -->
+                <!-- <pre> -->
+                  <!-- <code> -->
+                    <?php highlight_file('public/questions/test.php'); ?>
+                  <!-- </code> -->
+                <!-- </pre> -->
             </div>
             <div class="card-footer text-center">
                 Jawaban
