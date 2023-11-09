@@ -13,6 +13,19 @@ class main extends Controller
 
         $this->view('main/index', $data);
     }
+
+    public function submitAnswer()
+    {
+        if ($this->model('UsersModel')->submitAnswer($_POST) > 0) {
+            echo 'success';
+            echo "<meta http-equiv='refresh' content='1;URL=" . BASEURL . "main'>";
+            exit;
+       } else {
+            echo 'failed';
+            echo "<meta http-equiv='refresh' content='1;URL=" . BASEURL . "main'>";
+            exit;
+       }
+    }
 }
 
 ?>
